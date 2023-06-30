@@ -2,9 +2,8 @@
 # Author: Gabriel Kamener
 # Author email:gkamener@fiu.edu
 # Organization:
-# Florida Coastal Everglades LTER
-# (Lead Principal Investigator: John Kominoski, jkominos@fiu.edu)
 # Florida Coastal Everglades LTER Program
+# (Lead Principal Investigator: John Kominoski, jkominos@fiu.edu)
 # Institute of Environment
 # Florida International University
 # 11200 SW 8th Street, OE 148
